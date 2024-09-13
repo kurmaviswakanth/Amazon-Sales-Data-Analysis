@@ -1,5 +1,7 @@
 # Amazon Sales Data Analysis
 
+![Amazon Logo](https://github.com/kurmaviswakanth/Amazon-Sales-Data-Analysis/blob/main/amazon.jpg)
+
 ## Overview
 This project utilizes Power BI to analyze Amazon sales data, providing insights into key performance indicators (KPIs), customer behavior, and product trends. The goal of this analysis is to assist in making data-driven decisions for improving sales strategies and operational efficiency.
 

@@ -20,6 +20,8 @@ The Power BI file contains the following interactive visualizations:
 - **Time Series Analysis Dashboard**: Visualizes trends in sales data over time, highlighting peaks and seasonal patterns.
 
 ## Data Sources
+You can find the dataset on the given link [Download Data](https://drive.google.com/file/d/10sofXyF6NjwN6ngLyFfiPI-CUDpeqaN_/view?usp=sharing)
+
 The data used in this analysis includes:
 - **Sales Data**: Transactional data with details of each order.
 - **Customer Information**: Demographic and regional data on customers.
